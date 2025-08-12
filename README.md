@@ -1,12 +1,16 @@
 # Excel_Dashboard-Coffee_Shop_Sales
 ENGLISH
+
 Basic dashboard that shows how I analyzed the transactions of a coffe shop in 2023
 
 This repository is just to save and explain the dataset and final analysis
 
 It is a simple analysis whose purpose was to show the number of transactions by day and hour, in addition to showing the revenue and certain trends in the coffee shop, showing which are the best-selling products and how the revenue changes between January and June 2023; which the coffee shop reaches its peak in June, and showing that coffee is the most purchased product overall, having the highest number of transactions per store, and the best-selling product is the "Barista espresso" with a revenue of $91,406.20.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ESPAÑOL
+
 Dashboard Básico que muestra como analicé las transacciones de una tienda de café en 2023
 
 Este repositorio es solo para guardar y explicar el dataset y el análisis final
